@@ -113,5 +113,5 @@ main(){
 }
 
 //MODULE_LICENSE("GPL");
-//MODULE_AUTHOR("Emily (Yin-Li) Chow");
+//MODULE_AUTHOR("Emily Chow");
 //MODULE_DESCRIPTION("Problem 4 part c ~ original Starlocks customer-barista processing but with angry, angry customers");
